@@ -2,6 +2,8 @@
 layout: default
 title: Curriculum Vitae
 ---
+**[Home](/)** | **[Research & Thesis](/research/)** | **[Teaching Experience](/teaching/)** | **[Curriculum Vitae](/cv/)**
+---
 
 # Curriculum Vitae
 
