@@ -20,10 +20,10 @@ title: Research & Thesis
 
 ### Spectral Graph Theory
 * **Project:** Developed an efficient algorithm for analyzing the spectral properties and polynomial invariants of rooted trees level matrices.
-* **Advisor:** [Dr. Denny Riama Silaban](https://scholar.google.com/citations?user=8phUFAkAAAAJ&hl=en)
+* **Advisor:** [Dr. Denny Riama Silaban, M.Kom.](https://scholar.google.com/citations?user=8phUFAkAAAAJ&hl=en)
 * **Status:** Paper in preparation for journal submission.
 
 ### Ramsey Theory
 * **Project:** Developed computational framework for calculating exact values for restricted size Ramsey numbers.
-* **Advisor:** [Dr. Denny Riama Silaban](https://scholar.google.com/citations?user=8phUFAkAAAAJ&hl=en)
+* **Advisor:** [Dr. Denny Riama Silaban, M.Kom.](https://scholar.google.com/citations?user=8phUFAkAAAAJ&hl=en)
 * **Status:** Results are being compiled into a research note for preprint submission.
