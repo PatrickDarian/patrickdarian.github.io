@@ -8,11 +8,11 @@ title: Curriculum Vitae
 # Curriculum Vitae
 
 ## Education
-*   **B.Sc. in Mathematics** | Universitas Indonesia  
+*   **B.Sc. in Mathematics** - Universitas Indonesia  
     *   **Cumulative GPA:** 3.93 / 4.00  (On track for Summa Cum Laude)
     *   *Status:* Thesis successfully defended; Graduation expected September 2026  
     *   *Thesis Title:* Equivalence of 2TQFT and Commutative Frobenius Algebras  
-*   **Senior High School** | Marsudirini Bekasi  
+*   **Senior High School** - Marsudirini Bekasi  
     *   *Stream:* Science (2019 - 2022)  
 
 ---
@@ -50,12 +50,12 @@ title: Curriculum Vitae
 ---
 
 ## Teaching & Academic Leadership
-*   **Department Assistant Lecturer / TA** | Universitas Indonesia (6 Semesters)  
+*   **Department Assistant Lecturer / TA** - Universitas Indonesia (6 Semesters)  
     *   Delivered recitation and tutorial instruction for Real Analysis I & II, Abstract Algebra, Linear Algebra I, Elementary Linear Algebra, and Calculus I & II.  
     *   Held weekly assistance sessions for up to 40 students at a time and managed grading metrics for 50+ undergraduates.  
-*   **Live Class Instructor** | AmbisBareng (Oct 2022 – Oct 2023)  
+*   **Live Class Instructor** - AmbisBareng (Oct 2022 – Oct 2023)  
     *   Taught live interactive classes and designed problem sets/quizzes focusing on Pengetahuan Kuantitatif and Penalaran Matematika.  
-*   **Academic Staff** | InfoTembusPTN (Oct 2022 – Jan 2023)  
+*   **Academic Staff** - InfoTembusPTN (Oct 2022 – Jan 2023)  
     *   Created over 150 original mathematics problems and comprehensive solution keys for national university entrance exam (UTBK) tryouts.  
 *   **Private Mathematics Tutor** (Jul 2022 – Ongoing)  
     *   Provided independent undergraduate proof coaching (Analysis, Algebra, Diff Eq., Logic) and intensive pre-university UTBK preparation.  
