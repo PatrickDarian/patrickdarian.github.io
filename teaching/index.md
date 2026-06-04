@@ -41,7 +41,7 @@ Providing independent problem-solving and proof-writing mentorship for undergrad
 
 ## Independent Academic Tutoring
 *   **UTBK (National University Entrance Exam) Preparation**  
-    *   *Curriculum Framework:* Designed and delivered intensive preparation across core exam components, focusing on speed-accuracy optimization and analytical reasoning:
+    *   *Curriculum:* Designed and delivered intensive preparation across core exam components, focusing on speed-accuracy optimization and analytical reasoning:
         *   **Pengetahuan Umum (PU):** Focused on mathematical logic, deductive frameworks, and analytical problem-solving.
         *   **Pengetahuan Kuantitatif (PK):** Comprehensive coverage of quantitative reasoning, data sufficiency, and arithmetic/algebraic foundations.
         *   **Matematika Dasar & Matematika Saintek:** Advanced materials covering the entire national curriculum, spanning complex algebra, geometry, trigonometry, calculus, and combinatorics for STEM-track candidates.
