@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Home
-google-site-verification: "zv-cL9yKLswsQfFHBtumui4hij23ws_SfXfUTGWtoew"
 ---
 **[Home](/)** | **[Research & Thesis](/research/)** | **[Teaching Experience](/teaching/)** | **[Curriculum Vitae](/cv/)**
 ---
@@ -36,8 +35,8 @@ Explore the different sections of my academic profile:
 *   **Institutional Email:** patrick.darian@sci.ui.ac.id
 *   **Personal Academic Email:** patrick.darian.math@gmail.com
 *   **GitHub:** [github.com/PatrickDarian](https://github.com/PatrickDarian)
-*   **Google Scholar:** [Profile Link](https://scholar.google.com/citations?user=XGI3RwUAAAAJ&hl=en&authuser=2)
-*   **ResearchGate:** [Profile Link](https://www.researchgate.net/profile/Patrick-Darian?ev=hdr_xprf)
+*   **Google Scholar:** [Profile Link](https://scholar.google.com/citations?user=XGI3RwUAAAAJ&hl=en&authuser=2) *(No active publications; preprints coming soon)*
+*   **ResearchGate:** [Profile Link](https://www.researchgate.net/profile/Patrick-Darian?ev=hdr_xprf) *(Current projects listed)*
 
 ---
 
