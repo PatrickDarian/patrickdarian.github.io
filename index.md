@@ -15,20 +15,20 @@ Alongside my research, I have a passion for mathematics pedagogy and academic pr
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 *   **Pure Mathematics:** Category Theory, 2D Topological Quantum Field Theory (TQFT), and Commutative Frobenius Algebras.
 *   **Combinatorics & Graph Theory:** Algebraic Graph Theory and generalized Ramsey Theory bounds.
 
 ---
 
-## 🗺️ Site Navigation
+## Site Navigation
 Explore the different sections of my academic profile:
 *   [**Research & Thesis**](/research/) — Detailed descriptions of my thesis abstract, current publication goals, and combinatorics projects.
 *   [**Teaching Experience**](/teaching/) — A comprehensive breakdown of my 6 semesters of university TA instruction and independent tutoring curricula.
 *   [**Curriculum Vitae**](/cv/) — My full academic timeline, cumulative 3.93 GPA/honors, and national math competitions achievements.
 
 ---
-## 📬 Contact & Links
+## Contact & Links
 *   **Institutional Email:** [your_username]@ui.ac.id
 *   **Personal Academic Email:** patrick.darian.math@gmail.com
 *   **GitHub:** [github.com/PatrickDarian](https://github.com/PatrickDarian)
