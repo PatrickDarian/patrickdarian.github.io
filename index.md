@@ -29,7 +29,7 @@ Explore the different sections of my academic profile:
 
 ---
 ## Contact & Links
-*   **Institutional Email:** [your_username]@ui.ac.id
+*   **Institutional Email:** patrick.darian@sci.ui.ac.id
 *   **Personal Academic Email:** patrick.darian.math@gmail.com
 *   **GitHub:** [github.com/PatrickDarian](https://github.com/PatrickDarian)
 
