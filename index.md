@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-google-site-verification: zv-cL9yKLswsQfFHBtumui4hij23ws_SfXfUTGWtoew
+google-site-verification: "zv-cL9yKLswsQfFHBtumui4hij23ws_SfXfUTGWtoew"
 ---
 **[Home](/)** | **[Research & Thesis](/research/)** | **[Teaching Experience](/teaching/)** | **[Curriculum Vitae](/cv/)**
 ---
