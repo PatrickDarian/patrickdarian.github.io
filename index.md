@@ -1,11 +1,13 @@
----
+<img width="1475" height="556" alt="image" src="https://github.com/user-attachments/assets/c5b4e587-c692-4286-95d3-849f33ea692e" />---
 layout: default
 title: Home
+---
+**[Home](/)** | **[Research & Thesis](/research/)** | **[Teaching Experience](/teaching/)** | **[Curriculum Vitae](/cv/)**
 ---
 
 # About Me
 
-Welcome to my academic homepage! I am a final-year Mathematics undergraduate student at the University of Indonesia, specializing in Pure Mathematics and Discrete Structures. I'm currently finishing my undergraduate study, working on my research, and looking for a masters degree in mathematocs. 
+Welcome to my academic homepage! I am a final-year Mathematics undergraduate student at the University of Indonesia, specializing in Pure Mathematics and Discrete Structures. I'm currently finishing my undergraduate study, working on my research, and looking for a masters degree in mathematics. 
 
 My academic work bridges the worlds of topological frameworks and discrete structures. My undergraduate thesis centers on **2D Topological Quantum Field Theory (2D TQFT)**, working at the intersection of **Category Theory, Geometry/Topology, and Abstract Algebra** to analyze structural equivalences. 
 
