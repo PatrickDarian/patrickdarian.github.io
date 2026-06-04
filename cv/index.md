@@ -31,7 +31,7 @@ title: Curriculum Vitae
 
 ---
 
-## 🏆 Academic Achievements & Honors
+## Academic Achievements & Honors
 *   **ONMIPA (National Mathematics and Science Competition)**  
     *   **Silver Medal** Winner (2024)  
     *   **Bronze Medal** Winner (2025)  
@@ -46,7 +46,7 @@ title: Curriculum Vitae
 
 ---
 
-## 🏫 Teaching & Academic Leadership
+## Teaching & Academic Leadership
 *   **Department Assistant Lecturer / TA** | Universitas Indonesia (6 Semesters)  
     *   Delivered recitation and tutorial instruction for Real Analysis I & II, Abstract Algebra, Linear Algebra I, Elementary Linear Algebra, and Calculus I & II.  
     *   Held weekly assistance sessions for up to 40 students at a time and managed grading metrics for 50+ undergraduates.  
@@ -59,7 +59,7 @@ title: Curriculum Vitae
 
 ---
 
-## 👥 Organizational & Problem-Setting Experience
+## Organizational & Problem-Setting Experience
 *   **LOGIKA UI** (Aug 2022 – Feb 2024)  
     *   *Vice Deputy of Academic Division (2024):* Recruited expert judges and created/compiled problem sets and grading metrics for the Mathematics Individual Competition (MIC), Mathematics Team Competition (MTC), and Statistics Team Competition (STC). Managed and coordinated active divisional staff during execution.  
     *   *Staff of Academic Division (2023):* Designed competitive math problems and academic content for MIC and MTC.  
