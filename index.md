@@ -5,6 +5,7 @@ title: Home
 **[Home](/)** | **[Research & Thesis](/research/)** | **[Teaching Experience](/teaching/)** | **[Curriculum Vitae](/cv/)**
 ---
 
+> **Note:** This website is currently under active development as I transition into graduate study. Sections are being regularly updated to reflect recent research preprints and ongoing academic coursework.
 # About Me
 
 Welcome to my academic homepage! I am a final-year Mathematics undergraduate student at the University of Indonesia, specializing in Pure Mathematics and Discrete Structures. I'm currently finishing my undergraduate study, working on my research, and looking for a masters degree in mathematics. 
