@@ -2,6 +2,8 @@
 layout: default
 title: Teaching
 ---
+**[Home](/)** | **[Research & Thesis](/research/)** | **[Teaching Experience](/teaching/)** | **[Curriculum Vitae](/cv/)**
+---
 
 # Teaching Experience
 
