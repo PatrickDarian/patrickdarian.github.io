@@ -11,7 +11,9 @@ title: Curriculum Vitae
 *   **B.Sc. in Mathematics** - Universitas Indonesia  
     *   **Cumulative GPA:** 3.93 / 4.00  (On track for Summa Cum Laude)
     *   *Status:* Thesis successfully defended; Graduation expected September 2026  
-    *   *Thesis Title:* Equivalence of 2TQFT and Commutative Frobenius Algebras  
+    *   *Thesis Title:* Equivalence of 2TQFT and Commutative Frobenius Algebras
+    *   *Thesis Advisor:* [Ryan Kasyfil Aziz, M.Si., Ph.D.](https://sites.google.com/view/ryanaziz/welcome?authuser=0)
+    *   *Defense Committee:* [Prof. Kiki Ariyanti, M.Si., Ph.D.](https://muh-imran.github.io/research/) and [Muhammad Imran, S.Si., M.Sc., Ph.D.](https://muh-imran.github.io/research/)
 *   **Senior High School** - Marsudirini Bekasi  
     *   *Stream:* Science (2019 - 2022)  
 
