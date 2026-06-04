@@ -1,0 +1,14 @@
+title: Patrick Darian
+description: Personal research portfolio and academic homepage.
+theme: jekyll-theme-architect # A crisp, professional multi-page layout
+
+# This sets up a clean navigation sidebar or header depending on the theme layout
+navbar:
+  - title: About
+    url: /
+  - title: Research & Thesis
+    url: /research/
+  - title: Teaching
+    url: /teaching/
+  - title: CV
+    url: /cv/
