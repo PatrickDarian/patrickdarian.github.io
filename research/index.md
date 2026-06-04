@@ -2,10 +2,7 @@
 layout: default
 title: Research & Thesis
 ---
-* **[Home](/)**
-* **[Research & Thesis](/research/)**
-* **[Teaching Experience](/teaching/)**
-* **[Curriculum Vitae](/cv/)**
+**[Home](/)** | **[Research & Thesis](/research/)** | **[Teaching Experience](/teaching/)** | **[Curriculum Vitae](/cv/)**
 ---
 
 # Research & Thesis Progress
