@@ -10,7 +10,7 @@ title: Home
 
 Welcome to my academic homepage! I am a final-year Mathematics undergraduate student at the University of Indonesia, specializing in Pure Mathematics and Discrete Structures. I'm currently finishing my undergraduate study, working on my research, and looking for a masters degree in mathematics. 
 
-My academic work bridges the worlds of topological frameworks and discrete structures. My undergraduate thesis centers on **2D Topological Quantum Field Theory (2D TQFT)**, working at the intersection of **Category Theory, Geometry/Topology, and Abstract Algebra** to analyze structural equivalences. 
+My undergraduate thesis centers on **2D Topological Quantum Field Theory (2D TQFT)**, working at the intersection of **Category Theory, Geometry/Topology, and Abstract Algebra** to analyze structural equivalences. 
 
 In parallel, my independent research focuses heavily on **Graph Theory, Ramsey Theory, and Algebraic Graph Theory**. My long-term research objective is to fuse these two domains together—leveraging the powerful, high-level machinery of Category Theory and topological invariants to uncover deep structural properties within Algebraic Graph Theory.
 
