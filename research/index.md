@@ -3,6 +3,10 @@ layout: default
 title: Research & Thesis
 ---
 
+**[Home](/)** | **[Research & Thesis](/research/)** | **[Teaching Experience](/teaching/)** | **[Curriculum Vitae](/cv/)**
+
+---
+
 # Research & Thesis Progress
 
 ## Undergraduate Thesis (Defended - Pending Revisions)
