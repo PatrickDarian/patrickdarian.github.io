@@ -28,7 +28,7 @@ title: Curriculum Vitae
 ---
 
 ## Research & International Experience
-*   **KAIST (Korea Advanced Institute of Science and Technology)** | Daejeon, South Korea  
+*   **KAIST (Korea Advanced Institute of Science and Technology)** - Daejeon, South Korea  
     *   *Role:* Participant at KAIX Math Summer School (Jul 2025 – Aug 2025)  
     *   *Details:* Attended an intensive two-week seminar covering Partial Differential Equations, Differential Forms, Statistical Learning Theory, and Financial Mathematics.  
 
