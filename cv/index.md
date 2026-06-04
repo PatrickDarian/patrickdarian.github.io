@@ -8,11 +8,11 @@ title: Curriculum Vitae
 # Curriculum Vitae
 
 ## Education
-*   **B.Sc. in Mathematics** | Universitas Indonesia  
+*   **B.Sc. in Mathematics** Universitas Indonesia  
     *   **Cumulative GPA:** 3.93 / 4.00  (On track for Summa Cum Laude)
     *   *Status:* Thesis successfully defended; Graduation expected September 2026  
     *   *Thesis Title:* Equivalence of 2TQFT and Commutative Frobenius Algebras  
-*   **Senior High School** | Marsudirini Bekasi  
+*   **Senior High School**  Marsudirini Bekasi  
     *   *Stream:* Science (2019 - 2022)  
 
 ---
