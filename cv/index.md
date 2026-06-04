@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-## 🎓 Education
+## Education
 *   **B.Sc. in Mathematics** | Universitas Indonesia  
     *   **Cumulative GPA:** 3.93 / 4.00  (On track for Summa Cum Laude)
     *   *Status:* Thesis successfully defended; Graduation expected September 2026  
@@ -15,7 +15,16 @@ title: Curriculum Vitae
 
 ---
 
-## 🔬 Research & International Experience
+## Selected Coursework
+*   **Analysis:** Real Analysis I & II, Measure Theory and Integration, Functional Analysis, Complex Analysis.
+*   **Algebraic Structures:** Linear Algebra 1 and 2, Abstract Algebra, Hopf Algebra.
+*   **Geometry and Topology:** Analytical Geometry, Topology.
+*   **Combinatorics & Discrete Structures:** Discrete Mathematics, Graph Theory, Ramsey Theory, Algebraic Graph Theory, Advanced Graph Theory.  
+*   **Computational & Applied Foundations:** Elementary and Partial Differential Equations, Numerical Analysis, Data Structures, Algorithm Designs and Analysis.
+*   **Miscellanious:** Mathematical Statistics 1 and 2, Financial Mathematics 1 and 2, Mathematical Modelling.
+---
+
+## Research & International Experience
 *   **KAIST (Korea Advanced Institute of Science and Technology)** | Daejeon, South Korea  
     *   *Role:* Participant at KAIX Math Summer School (Jul 2025 – Aug 2025)  
     *   *Details:* Attended an intensive two-week seminar covering Partial Differential Equations, Differential Forms, Statistical Learning Theory, and Financial Mathematics.  
