@@ -70,3 +70,5 @@ title: Curriculum Vitae
     *   *Nonberkas Staff:* Created original problem sets and evaluated final competitive submissions for the Logic Puzzle (Lozzle) competition.  
 *   **Tossaka 19th** (Jul 2022 – Dec 2022)  
     *   *Staff in Problems Division:* Authored exam problems for Pengetahuan Kuantitatif and Penalaran Matematika, and produced video walkthrough solutions.
+
+---
